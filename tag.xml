@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+
+<student1 id="1">
+
+	<name> Arpan </name>
+	<physics> 98 </physics>
+	<hindi> 56 </hindi>
+	<science> 90 </science>
+
+</student1>
+
+<student2 id="2">
+
+	<name> Arpan </name>
+	<physics> 95 </physics>
+	<hindi> 57 </hindi>
+	<science> 99 </science>
+
+</student2>
+
+</result>

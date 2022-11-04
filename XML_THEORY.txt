@@ -1,0 +1,63 @@
+XML = extensible Markup Language
+
+In XML you can use your own tags, tags are not Limited and not predefined.
+In XML we use tag or marks.
+
+<!DOCTYPE html>
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+XML was designed to store and transport data.
+XML was designed to be both human and machine readable.
+
+Rules for XML=>
+1> There is only one root Tag.
+2> xml is case sensitive.
+3> every opening tag needs a closing tag.
+4> Every attribute value is inside double quote.
+
+Two Types of XML =>
+1> Structured  (DTD - Document Type Definition)
+2> Content (XSD - XML Schema Definition)
+
+Structure of elements in XML Documents:
+
+<root> can be called Parent Element
+		<child>
+				<subchild> ---- </subchild>
+		</child>
+</root>
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+
+<student1 id="1">
+
+	<name> Arpan </name>
+	<physics> 98 </physics>
+	<hindi> 56 </hindi>
+	<science> 90 </science>
+
+</student1>
+
+<student2 id="2">
+
+	<name> Arpan </name>
+	<physics> 95 </physics>
+	<hindi> 57 </hindi>
+	<science> 99 </science>
+
+</student2>
+
+</result>
+
+Structure of elements in XML Documents:
+
+<root> can be called Parent Element
+		<child>
+				<subchild> ---- </subchild>
+		</child>
+</root>
